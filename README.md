@@ -1,4 +1,3 @@
-<img width="460" height="878" alt="Ekran Resmi 2026-03-19 17 08 53" src="https://github.com/user-attachments/assets/4a408278-39b7-439a-8312-4b333dfc9ba2" /># Sleep Debt
 
 Sleep Debt is an iOS app that helps users understand their sleep habits using Apple Health data.
 
