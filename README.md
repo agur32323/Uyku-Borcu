@@ -1,4 +1,4 @@
-# Sleep Debt
+<img width="460" height="878" alt="Ekran Resmi 2026-03-19 17 08 53" src="https://github.com/user-attachments/assets/4a408278-39b7-439a-8312-4b333dfc9ba2" /># Sleep Debt
 
 Sleep Debt is an iOS app that helps users understand their sleep habits using Apple Health data.
 
@@ -20,12 +20,10 @@ Sleep Debt is an iOS app that helps users understand their sleep habits using Ap
 [Download on the App Store](BURAYA_LINK)
 
 ## Screenshots
-![Splash](<img width="1320" height="2868" alt="simulator_screenshot_E4809CFB-4211-47C6-97F4-0E63D8EBCCA1" src="https://github.com/user-attachments/assets/d23a0821-9f91-420b-92c2-6e818b1a0e4e" />
-)
-![Home](<img width="1320" height="2868" alt="simulator_screenshot_7163CE0E-4A1C-40D5-895D-6C7F3961531E" src="https://github.com/user-attachments/assets/41542c0e-341c-4e6b-bf0f-9beee448e7f4" />)
-![Premium](<img width="1320" height="2868" alt="simulator_screenshot_F59B9B52-7287-422A-BE4B-0EFDB6076498" src="https://github.com/user-attachments/assets/26bacea5-363a-4653-ab84-c5824481962c" />)
-
-![Activiti](<img width="1320" height="2868" alt="simulator_screenshot_842A6FFC-978E-4491-83E2-195B09CADCA6" src="https://github.com/user-attachments/assets/4d2f37d1-0dd9-42fb-a207-829dbc30a5a3" />)
+![Splash](<img width="424" height="825" alt="Ekran Resmi 2026-04-06 15 22 44" src="https://github.com/user-attachments/assets/8ca5f250-a8aa-427f-b89c-fb33572e3cf3" /> )
+![Home](<img width="460" height="878" alt="Ekran Resmi 2026-03-19 17 07 17" src="https://github.com/user-attachments/assets/d8cafd60-7a90-4772-866a-1bc2bcb5cf1b" />)
+![Premium](<img width="460" height="878" alt="Ekran Resmi 2026-03-19 17 08 53" src="https://github.com/user-attachments/assets/e8e0fc13-670f-43e9-8fe6-8c3c6d1331a9" />)
+![Activiti](<img width="460" height="878" alt="Ekran Resmi 2026-03-19 17 08 20" src="https://github.com/user-attachments/assets/d61351b5-62f8-4749-807e-366f481d85de" />)
 
 
 ## Notes
